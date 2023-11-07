@@ -1,14 +1,16 @@
-body {
-    background-image: url(../assests/assets/bgtexture.jpg);
+
 .Bgimage{
     background-image: url(../);
 }
-.space{
+/* .space{
+    list-style-type: none;
+    padding: 0;
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
-}
+  } */
 .nav-item{
-    font-size: 20px;
+    font-size: 15px;
     color: #5F002B;
 }
 .catWhiteBox{
@@ -29,6 +31,11 @@ body {
      overflow-inline:hidden; */
 
 
+}
+.W{
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 .cateringHeroI{
     background-image: url(../assets/cateringHero.jpg);
