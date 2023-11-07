@@ -145,3 +145,6 @@ body{
     src: url("../fonts/Fugaz_One/FugazOne-Regular.ttf");
 }
 
+body {
+    background-image: url(../assests/assets/bgtexture.jpg);
+}
