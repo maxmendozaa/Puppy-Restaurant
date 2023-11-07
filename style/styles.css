@@ -128,7 +128,7 @@ body{
 }
 
 .nav-item{
-    font-size: 15px;
+    font-size: 20px;
     color: #5F002B;
     font-weight: 1px;
 }
@@ -163,7 +163,7 @@ body{
 }
 .txtAlignLeft{
     text-align: start;
-color: #5F002B;
+    color: #5F002B;
     font-family: Fugaz One,Regular ;
 
    
@@ -292,6 +292,9 @@ padding-top: 3% ;
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7a27a00 (my push)
 .space {
     display: flex;
     justify-content: space-around;
@@ -318,6 +321,7 @@ padding-top: 3% ;
 .pads {
     padding-right: 10px;
     padding-left: 10px;
+<<<<<<< HEAD
 }
 
 h3 {
@@ -353,4 +357,6 @@ h4 {
 body {
     background-image: url(../assests/assets/bgtexture.jpg);
 >>>>>>> aa361c2 (nextcommit)
+=======
+>>>>>>> 7a27a00 (my push)
 }
