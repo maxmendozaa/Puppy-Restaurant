@@ -1,0 +1,121 @@
+.Bgimage{
+    background-image: url(../assets/bgtexture.jpg);
+}
+/* .space{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  } */
+.nav-item{
+    font-size: 15px;
+    color: #5F002B;
+}
+.catWhiteBox{
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+.fontC{
+    color: #5F002B;
+    text-align: center;
+    font-family: Fugaz One,Regular ;
+}
+.tomatoImg{
+    padding: 0px;
+    height:100%;
+    width: 100%;
+     /* overflow:hidden;
+     overflow-inline:hidden; */
+
+
+}
+.W{
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.cateringHeroI{
+    background-image: url(../assets/cateringHero.jpg);
+    margin-top: 4%;
+    background-image: cover;
+    height: 50vh;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
+.txtAlignLeft{
+    text-align: start;
+color: #5F002B;
+    font-family: Fugaz One,Regular ;
+
+   
+}
+.oCsPadding{
+    padding: 3%;
+    
+}
+.bg2{
+   /* margin-left: 1%; */
+    background-color: rgb(255, 255, 255);
+}
+.photosB{
+    border: 3px solid rgb(255, 255, 255)
+
+}
+
+@media only screen and (min-width: 200px) and (max-width: 480px){
+   .cateringHeroI{
+    margin-top: 5%;
+    background-image: url(../assets/cateringHero.jpg);
+    background-image: cover;
+    height: 150px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+   }
+   .bg2{
+    width: 100%;
+   }
+
+}
+@media only screen and (min-width: 481px) and (max-width: 767px){
+    .bg2{
+        width: 100%;
+       }
+}
+
+body{
+    font-family: "FugazOne Regular";
+}
+.cFont{
+    font-family: "Montauk Regular";
+    color: #5F002B;
+}
+
+@font-face {
+    font-family: "Montauk Regular";
+    src: url("../fonts/Montauk-Regular.otf");
+}
+
+@font-face {
+    font-family: "Montauk Bold";
+    src: url("../fonts/Montauk-Bold.otf");
+}
+
+@font-face {
+    font-family: "Montauk Italic";
+    src: url("../fonts/Montauk-Italic.otf");
+}
+
+@font-face {
+    font-family: "Montauk Light";
+    src: url("../fonts/Montauk-Light.otf");
+}
+@font-face {
+    font-family: "FugazOne Regular";
+    src: url("../fonts/Fugaz_One/FugazOne-Regular.ttf");
+}
+
