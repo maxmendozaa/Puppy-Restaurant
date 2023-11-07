@@ -9,7 +9,7 @@
     justify-content: space-around;
   } */
 .nav-item{
-    font-size: 15px;
+    font-size: 20px;
     color: #5F002B;
 }
 .catWhiteBox{
@@ -48,7 +48,7 @@
 }
 .txtAlignLeft{
     text-align: start;
-color: #5F002B;
+    color: #5F002B;
     font-family: Fugaz One,Regular ;
 
    
@@ -117,4 +117,32 @@ body{
 @font-face {
     font-family: "FugazOne Regular";
     src: url("../fonts/Fugaz_One/FugazOne-Regular.ttf");
+}
+
+.space {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 60px;
+}
+
+.myImg {
+    padding-left: 50px;
+}
+
+.heroImg {
+    width: 100%;
+}
+
+.sandImg {
+    padding-right: 30px;
+}
+
+.CT {
+    padding-top: 10px;
+    color: #5F002B;
+}
+
+.pads {
+    padding-right: 10px;
+    padding-left: 10px;
 }
