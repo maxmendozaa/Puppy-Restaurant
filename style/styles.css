@@ -503,7 +503,7 @@ body {
 =======
 >>>>>>> d783994 (stuff)
 .nav-item{
-    font-size: 20px;
+    font-size: 15px;
     color: #5F002B;
     font-weight: 1px;
 }
@@ -524,11 +524,6 @@ body {
     width: 100%;
 
 
-}
-.W{
-    width: 100%;
-    padding-left: 0px;
-    padding-right:12px;
 }
 .cateringHeroI{
     background-image: url(../assets/cateringHero.jpg);
