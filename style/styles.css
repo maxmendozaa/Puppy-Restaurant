@@ -12,6 +12,7 @@
 .nav-item{
     font-size: 15px;
     color: #5F002B;
+    font-weight: 1px;
 }
 .catWhiteBox{
     background-color: white;
@@ -23,6 +24,7 @@
     text-align: center;
     font-family: Fugaz One,Regular ;
 }
+
 .tomatoImg{
     padding: 0px;
     height:100%;
