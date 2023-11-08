@@ -178,3 +178,11 @@ h4 {
 .color {
     color: #5F002B;
 }
+
+.footText {
+    font-size: 15px;
+}
+
+.footPad {
+    padding-top: 20px;
+}
