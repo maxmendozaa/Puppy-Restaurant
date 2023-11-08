@@ -613,6 +613,19 @@ color: #5F002B;
     }
     
 }
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+    .W{
+        padding: 0px;
+    }
+    .tomatoImg{
+        padding:0%;
+    
+    
+    }
+
+
+}
 
 body{
     font-family: "FugazOne Regular";
