@@ -4,8 +4,11 @@
     background-image: url(../);
 =======
     background-image: url(../assets/bgtexture.jpg);
+<<<<<<< HEAD
     position: relative;
 >>>>>>> 1badf74 (stuff)
+=======
+>>>>>>> d39ee3f (bg pic)
 }
 
 .nav-item{
