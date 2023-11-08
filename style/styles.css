@@ -1,16 +1,15 @@
 
 .Bgimage{
+<<<<<<< HEAD
     background-image: url(../);
+=======
+    background-image: url(../assets/bgtexture.jpg);
+    position: relative;
+>>>>>>> 1badf74 (stuff)
 }
-/* .space{
-    list-style-type: none;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-  } */
+
 .nav-item{
-    font-size: 15px;
+    font-size: 20px;
     color: #5F002B;
 }
 .catWhiteBox{
@@ -240,6 +239,8 @@ color: #5F002B;
 =======
 >>>>>>> edaf674 (catering)
 
+
+
 body{
     font-family: "FugazOne Regular";
 }
@@ -257,7 +258,10 @@ padding-top: 3% ;
 
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1badf74 (stuff)
 
 @font-face {
     font-family: "Montauk Regular";
