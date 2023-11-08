@@ -3,19 +3,15 @@ body {
 }
 .Bgimage{
     background-image: url(../assets/bgtexture.jpg);
+    position: relative;
 }
-/* .space{
-    list-style-type: none;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-  } */
+
 .nav-item{
-    font-size: 15px;
+    font-size: 20px;
     color: #5F002B;
     font-weight: 1px;
 }
+
 .catWhiteBox{
     background-color: white;
     padding-top: 10px;
@@ -31,8 +27,6 @@ body {
     padding-right: 3%;
     height:100%;
     width: 100%;
-     /* overflow:hidden;
-     overflow-inline:hidden; */
 
 
 }
@@ -127,6 +121,8 @@ color: #5F002B;
 
 }
 
+
+
 body{
     font-family: "FugazOne Regular";
 }
@@ -134,6 +130,16 @@ body{
     font-family: "Montauk Regular";
     color: #5F002B;
 }
+.fFont{
+padding-top: 3% ;
+   font-family: "Montauk Light";
+   color: #5F002B;
+}
+.fMargin{
+    margin-bottom: 1%;
+
+}
+
 
 
 @font-face {
