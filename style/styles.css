@@ -122,7 +122,6 @@ body {
 >>>>>>> d47ac33 (commit style)
 .Bgimage{
     background-image: url(../assets/bgtexture.jpg);
-    position: relative;
 }
 
 .nav-item{
