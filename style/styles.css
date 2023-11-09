@@ -93,6 +93,9 @@ color: #5F002B;
 
 
 }
+.P{
+    margin-right: 16px;
+}
 }
 @media only screen and (min-width: 481px) and (max-width: 767px){
     .bg2{
@@ -106,7 +109,15 @@ color: #5F002B;
     
     
     }
+    .P{
+        margin-right: 16px;
+    }
     
+}
+@media only screen and (min-width: 767px) and (max-width: 991px){
+    .P{
+        margin-right: 16px;
+    }
 }
 
 body{
