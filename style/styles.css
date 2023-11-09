@@ -10,7 +10,7 @@
     justify-content: space-around;
   } */
 .nav-item{
-    font-size: 15px;
+    font-size: 20px;
     color: #5F002B;
     font-weight: 1px;
 }
@@ -22,7 +22,7 @@
 .fontC{
     color: #5F002B;
     text-align: center;
-    font-family: Fugaz One,Regular ;
+    font-family: "FugazOne Regular" ;
 }
 
 .tomatoImg{
@@ -70,10 +70,7 @@ color: #5F002B;
    /* margin-left: 1%; */
     background-color: rgb(255, 255, 255);
 }
-.photosB{
-    border: 7px solid rgb(255, 255, 255)
 
-}
 
 @media only screen and (min-width: 200px) and (max-width: 480px){
    .cateringHeroI{
@@ -112,9 +109,9 @@ color: #5F002B;
     
 }
 
-body{
+/* body{
     font-family: "FugazOne Regular";
-}
+} */
 .cFont{
     font-family: "Montauk Regular";
     color: #5F002B;
@@ -143,12 +140,6 @@ body{
 @font-face {
     font-family: "FugazOne Regular";
     src: url("../fonts/Fugaz_One/FugazOne-Regular.ttf");
-}
-
-.space {
-    display: flex;
-    justify-content: space-around;
-    padding-right: 60px;
 }
 
 .myImg {
@@ -239,3 +230,33 @@ hr {
     background-color: #5F002B;
     border: none;
 }
+/* BRIASSS */
+
+
+.photosB{
+    border: 7px solid rgb(255, 255, 255)
+}
+
+
+.fFont{
+padding-top: 3% ;
+   font-family: "Montauk Light";
+   color: #5F002B;
+}
+.fMargin{
+    margin-bottom: 1%;
+
+}
+
+
+.footText {
+    font-size: 15px;
+}
+
+.footPad {
+    padding-top: 20px;
+}
+
+
+
+/* --------------------------------------------------------- */
