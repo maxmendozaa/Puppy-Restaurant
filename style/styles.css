@@ -183,10 +183,6 @@ h3 {
     padding-right: 10px;
 }
 
-.aboutImg {
-    padding-right: 10px;
-}
-
 h4 {
     padding-top: 15px;
     padding-bottom: 15px;
@@ -266,4 +262,16 @@ padding-top: 3% ;
     }
 }
 
+@media only screen and (min-width: 200px) and (max-width: 991px){
+    .aboutText{
+        margin-top: 4%;
+    }
+    .aboutImg{
+        padding:0%
+    }
+}
+
+.aboutImg {
+    padding-right: 10px;
+}
 /* --------------------------------------------------------- */
