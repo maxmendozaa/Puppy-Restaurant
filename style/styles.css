@@ -146,12 +146,16 @@ body{
 }
 
 .heroImg {
-    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
 }
 
-.sandImg {
+/* .sandImg {
     padding-right: 30px;
-}
+} */
 
 .CT {
     padding-top: 10px;
@@ -256,6 +260,10 @@ padding-top: 3% ;
     padding-top: 20px;
 }
 
-
+@media only screen and (min-width: 200px) and (max-width: 991px){
+    .cardMargin{
+        margin-top: 4%;
+    }
+}
 
 /* --------------------------------------------------------- */
