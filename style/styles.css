@@ -11,6 +11,7 @@
 .nav-item{
     font-size: 20px;
     color: #5F002B;
+    font-weight: 1px;
 }
 .catWhiteBox{
     background-color: white;
@@ -20,10 +21,11 @@
 .fontC{
     color: #5F002B;
     text-align: center;
-    font-family: "Fugaz One,Regular;
+    font-family: "FugazOne Regular" ;
 }
+
 .tomatoImg{
-    padding: 0px;
+    padding-right: 3%;
     height:100%;
     width: 100%;
      /* overflow:hidden;
@@ -34,10 +36,10 @@
 .W{
     width: 100%;
     padding-left: 0px;
-    padding-right: 0px;
+    padding-right:12px;
 }
 .cateringHeroI{
-    background-image: url(../assets/cateringHero.jpg);
+    background-image: url(../assests/assets/cateringHero.jpg);
     margin-top: 4%;
     background-image: cover;
     height: 50vh;
@@ -48,30 +50,33 @@
 }
 .txtAlignLeft{
     text-align: start;
-    color: #5F002B;
+color: #5F002B;
     font-family: Fugaz One,Regular ;
 
    
 }
+
 .oCsPadding{
-    padding: 3%;
+    padding: 2%;
     
+}
+.NOPAdding{
+    padding-right: 0px;
+    padding-left: 0px;
+
 }
 .bg2{
    /* margin-left: 1%; */
     background-color: rgb(255, 255, 255);
 }
-.photosB{
-    border: 3px solid rgb(255, 255, 255)
 
-}
 
 @media only screen and (min-width: 200px) and (max-width: 480px){
    .cateringHeroI{
     margin-top: 5%;
     background-image: url(../assets/cateringHero.jpg);
     background-image: cover;
-    height: 150px;
+    height: 190px;
     width: 100%;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -79,12 +84,28 @@
    .bg2{
     width: 100%;
    }
+   .W{
+    padding: 0px;
+}
+.tomatoImg{
+    padding:0%;
 
+
+}
 }
 @media only screen and (min-width: 481px) and (max-width: 767px){
     .bg2{
         width: 100%;
        }
+    .W{
+        padding: 0px;
+    }
+    .tomatoImg{
+        padding:0%;
+    
+    
+    }
+    
 }
 
 body{
@@ -94,6 +115,7 @@ body{
     font-family: "Montauk Regular";
     color: #5F002B;
 }
+
 
 @font-face {
     font-family: "Montauk Regular";
@@ -117,12 +139,6 @@ body{
 @font-face {
     font-family: "FugazOne Regular";
     src: url("../fonts/Fugaz_One/FugazOne-Regular.ttf");
-}
-
-.space {
-    display: flex;
-    justify-content: space-around;
-    padding-right: 60px;
 }
 
 .myImg {
@@ -159,9 +175,8 @@ h3 {
 }
 
 .padIt {
-    padding-bottom: 20px;
     padding-left: 20px;
-    padding-right: 20px;
+    padding-right: 10px;
 }
 
 .aboutImg {
@@ -169,15 +184,14 @@ h3 {
 }
 
 h4 {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     text-align: center;
     color: #5F002B;
     background-color: white;
 }
 
 .color {
-    padding-left: 10px;
     color: #5F002B;
 }
 
@@ -188,3 +202,60 @@ h4 {
 .footPad {
     padding-top: 20px;
 }
+
+.titleFont {
+    color: #5F002B;
+    text-align: center;
+    font-family: "Fugaz One bold;
+}
+
+.menuFontSize1 {
+    font-size: 30px;
+    font-family: "Fugaz One Regular;
+}
+
+.menuFontSize2 {
+    font-size: 16px;
+    font-family: "Montauk light";
+}
+
+.menuFontSize3 {
+    font-size: 30px;
+    font-family: "Montauk light";
+}
+
+hr {
+    height: 2px;
+    background-color: #5F002B;
+    border: none;
+}
+/* BRIASSS */
+
+
+.photosB{
+    border: 7px solid rgb(255, 255, 255)
+}
+
+
+.fFont{
+padding-top: 3% ;
+   font-family: "Montauk Light";
+   color: #5F002B;
+}
+.fMargin{
+    margin-bottom: 1%;
+
+}
+
+
+.footText {
+    font-size: 15px;
+}
+
+.footPad {
+    padding-top: 20px;
+}
+
+
+
+/* --------------------------------------------------------- */
