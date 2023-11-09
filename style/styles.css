@@ -53,6 +53,7 @@
     text-align: start;
 color: #5F002B;
     font-family: Fugaz One,Regular ;
+    font-size: 30px;
 
    
 }
@@ -74,6 +75,7 @@ color: #5F002B;
 
 @media only screen and (min-width: 200px) and (max-width: 480px){
    .cateringHeroI{
+    display: block;
     margin-top: 5%;
     background-image: url(../assets/cateringHero.jpg);
     background-image: cover;
@@ -93,6 +95,9 @@ color: #5F002B;
 
 
 }
+.P{
+    margin-right: 16px;
+}
 }
 @media only screen and (min-width: 481px) and (max-width: 767px){
     .bg2{
@@ -105,6 +110,23 @@ color: #5F002B;
         padding:0%;
     
     
+    }
+    .P{
+        margin-right: 16px;
+    }
+    
+}
+@media only screen and (min-width: 767px) and (max-width: 991px){
+    .P{
+        margin-right: 16px;
+    }
+    .tomatoImg{
+        padding:0%;
+    
+    
+    }
+    .W{
+        padding:0%
     }
     
 }
@@ -214,7 +236,9 @@ h4 {
     font-size: 30px;
     font-family: "Fugaz One Regular;
 }
-
+.sad{
+    padding-right: 5%;
+}
 .menuFontSize2 {
     font-size: 16px;
     font-family: "Montauk light";
@@ -224,7 +248,9 @@ h4 {
     font-size: 30px;
     font-family: "Montauk light";
 }
-
+.cardSand{
+    border-radius: 0px;
+}
 hr {
     height: 2px;
     background-color: #5F002B;
@@ -234,7 +260,7 @@ hr {
 
 
 .photosB{
-    border: 7px solid rgb(255, 255, 255)
+    border: 8px solid rgb(255, 255, 255)
 }
 
 
@@ -254,7 +280,7 @@ padding-top: 3% ;
 }
 
 .footPad {
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
 
