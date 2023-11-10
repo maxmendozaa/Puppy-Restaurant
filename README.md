@@ -1,7 +1,7 @@
 # Puppy-Restaurant
 Max Mendoza, Bria Harrold, Josue Rosales
 Puppy Restaurant
-Peer Review: 
+Peer Review: Michael Pantoja: Everything works fine when i went to change the size on mobile the catering picture went away other then that the website looks great and the reacts how it should
 
 It looks like it was designed for 1440, but the prototype is 1920
 
