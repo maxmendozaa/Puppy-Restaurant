@@ -28,8 +28,6 @@
     padding-right: 3%;
     height:100%;
     width: 100%;
-     /* overflow:hidden;
-     overflow-inline:hidden; */
 
 
 }
@@ -51,7 +49,8 @@
 .txtAlignLeft{
     text-align: start;
 color: #5F002B;
-    font-family: Fugaz One,Regular ;
+    font-family: "FugazOne Regular" ;
+    font-size: 30px;
 
    
 }
@@ -259,6 +258,9 @@ padding-top: 3% ;
 @media only screen and (min-width: 200px) and (max-width: 991px){
     .cardMargin{
         margin-top: 4%;
+    }
+    .tomatoImg{
+        padding: 0%;
     }
 }
 
