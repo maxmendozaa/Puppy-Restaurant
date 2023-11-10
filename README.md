@@ -1,5 +1,6 @@
 # Puppy-Restaurant
 Max Mendoza, Bria Harrold, Josue Rosales
+Breif Review: I made the Catering Page and photos did the nav and little bit of the footer
 Puppy Restaurant
 Peer Review: Michael Pantoja: Everything works fine when i went to change the size on mobile the catering picture went away other then that the website looks great and the reacts how it should
 
